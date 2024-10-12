@@ -7,5 +7,5 @@ Freddie Mac has a full dataset; however, they also prepare a smaller dataset due
 
 2) Second step: Open "prepare_data.ipynb" file and run the code. This code will apply the logic to identify the loans that are defaulted or prepaid, create bins for some of the variables used in the paper, calculate the aggregate fraction of loans that are prepaid (and defaulted), and calculate the interest rate gap by averaging the current rate and long term fixed rate. This code will produce two files named "LOAN_surv.csv" and "pp_df_rate.csv"
 
-3) Final step: Run the R code that is provided to replicate the analysis in the html paper. 
+3) Final step: Run the R code that is provided to replicate the analysis in the paper. 
 
